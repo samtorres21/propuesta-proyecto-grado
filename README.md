@@ -1,32 +1,29 @@
-# Sistema de Gestión de Citas Médicas
+# Agenda Personal Digital
 
 ## propuesta-proyecto-grado
 Repositorio que contendrá todo lo relacionado al proyecto final de grado de la tecnología en desarrollo de software.
 
 ### 🧠 Descripción
-Aplicación web para la gestión de citas médicas en clínicas locales. Permite a los pacientes agendar citas, a los médicos administrar sus horarios, y a los administradores controlar la disponibilidad y estadísticas.
+Aplicación web que permite a los usuarios organizar sus tareas y eventos diarios de forma sencilla y visual.
 
-### 📌 Funcionalidades principales
-- Registro y autenticación de usuarios (pacientes, médicos, administradores)
-- Agenda de citas con disponibilidad en tiempo real
-- Panel de control para médicos y administradores
-- Notificaciones por correo electrónico
-- Historial de citas y reportes
+### 📌 Funcionalidades
+- Registro de tareas y eventos
+- Visualización en calendario
+- Filtros por fecha y prioridad
+- Edición y eliminación de registros
 
 ### 🛠️ Tecnologías
-- Frontend: React
+- HTML, CSS, JavaScript
 - Backend: Node.js + Express
-- Base de datos: MongoDB
-- Autenticación: JWT
-- Despliegue: Render
+- Base de datos: SQLite o MongoDB
 
 ### 📁 Estructura del repositorio
-- `/frontend`: Código del cliente
+- `/frontend`: Interfaz de usuario
 - `/backend`: API y lógica del servidor
-- `/docs`: Documentación del proyecto
+- `/docs`: Documentación técnica
 
-### 📅 Cronograma
-- Semana 1–2: Diseño de interfaz y estructura de base de datos
-- Semana 3–4: Desarrollo de funcionalidades principales
-- Semana 5: Pruebas y ajustes
-- Semana 6: Documentación y presentación final
+### 📅 Cronograma sugerido
+- Semana 1: Diseño de interfaz y base de datos
+- Semana 2: Desarrollo de funcionalidades básicas
+- Semana 3: Pruebas y mejoras
+- Semana 4: Documentación y presentación
