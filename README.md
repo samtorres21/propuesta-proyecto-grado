@@ -28,4 +28,5 @@ Aplicación web que permite a los usuarios organizar sus tareas y eventos diario
 - Semana 3: Pruebas y mejoras
 - Semana 4: Documentación y presentación
 
-![Diagrama de ishikawa](/carpeta/AGENDA_PERSONAL_DIGITAL.png)
+- # Diagrama de ishikawa del proyecto de aula
+![Diagrama de ishikawa](carpeta/diagrama_de_ishikawa.png)
