@@ -31,7 +31,7 @@ Aplicación web que permite a los usuarios organizar sus tareas y eventos diario
 ![Diagrama de ishikawa](carpeta/diagrama_de_ishikawa.png)
 ---
 ## diagrama de flujo 
-![Diagrama de flujo](carpeta/diagrama flujo.png)
+![Diagrama de flujo](carpeta/diagrama_flujo.png)
 ---
 ### Validación y Verificación del Proyecto
 
