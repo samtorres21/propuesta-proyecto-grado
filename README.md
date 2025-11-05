@@ -33,9 +33,6 @@ Aplicación web que permite a los usuarios organizar sus tareas y eventos diario
 ## diagrama de flujo
 ![Diagrama de ishikawa](carpeta/diagrama_flujo.png)
 ---
-## diagrama de flujo 
-![Diagrama de flujo](carpeta/diagrama_flujo.png)
----
 ### Validación y Verificación del Proyecto
 
 Esta sección tiene como propósito identificar posibles **casos de uso** y validar que el proyecto cumpla con los requerimientos antes de su desarrollo completo.
