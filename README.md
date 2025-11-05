@@ -30,41 +30,6 @@ Aplicación web que permite a los usuarios organizar sus tareas y eventos diario
 - # Diagrama de ishikawa del proyecto de aula
 ![Diagrama de ishikawa](carpeta/diagrama_de_ishikawa.png)
 ---
-# 🔄 Diagrama de Flujo del Sistema
-
-```mermaid
-flowchart TD
-
-A[Inicio] --> B[Pantalla de Login]
-B --> C[Usuario ingresa credenciales]
-C --> D{Credenciales válidas?}
-
-D -- No --> E[Mostrar mensaje de error]
-E --> B
-
-D -- Sí --> F{Rol del usuario}
-
-F -- Administrador --> G[Panel de administración]
-F -- Vendedor --> H[Panel de ventas]
-
-G --> G1[Gestión de usuarios]
-G --> G2[Gestión de inventario]
-G --> G3[Reportes y estadísticas]
-
-H --> H1[Registrar venta]
-H --> H2[Consultar historial de ventas]
-H --> H3[Gestionar clientes]
-
-G1 --> I[Guardar cambios]
-G2 --> I
-G3 --> I
-H1 --> I
-H2 --> I
-H3 --> I
-
-I --> J[Cerrar sesión]
-J --> K[Fin]
----
 ### Validación y Verificación del Proyecto
 
 Esta sección tiene como propósito identificar posibles **casos de uso** y validar que el proyecto cumpla con los requerimientos antes de su desarrollo completo.
