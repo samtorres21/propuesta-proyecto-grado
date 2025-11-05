@@ -30,7 +30,7 @@ Aplicación web que permite a los usuarios organizar sus tareas y eventos diario
 
 - # Diagrama de ishikawa del proyecto de aula
 ![Diagrama de ishikawa](carpeta/diagrama_de_ishikawa.png)
-
+---
 ### Validación y Verificación del Proyecto
 
 Esta sección tiene como propósito identificar posibles **casos de uso** y validar que el proyecto cumpla con los requerimientos antes de su desarrollo completo.
