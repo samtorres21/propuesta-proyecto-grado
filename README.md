@@ -3,26 +3,26 @@
 ## propuesta-proyecto-grado
 Repositorio que contendrá todo lo relacionado al proyecto final de grado de la tecnología en desarrollo de software.
 
-### 🧠 Descripción
+###  Descripción
 Aplicación web que permite a los usuarios organizar sus tareas y eventos diarios de forma sencilla y visual.
 
-### 📌 Funcionalidades
+###  Funcionalidades
 - Registro de tareas y eventos
 - Visualización en calendario
 - Filtros por fecha y prioridad
 - Edición y eliminación de registros
 
-### 🛠️ Tecnologías
+###  Tecnologías
 - HTML, CSS, JavaScript
 - Backend: Node.js + Express
 - Base de datos: SQLite o MongoDB
 
-### 📁 Estructura del repositorio
+###  Estructura del repositorio
 - `/frontend`: Interfaz de usuario
 - `/backend`: API y lógica del servidor
 - `/docs`: Documentación técnica
 
-### 📅 Cronograma sugerido
+###  Cronograma sugerido
 - Semana 1: Diseño de interfaz y base de datos
 - Semana 2: Desarrollo de funcionalidades básicas
 - Semana 3: Pruebas y mejoras
