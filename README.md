@@ -29,6 +29,7 @@ Aplicación web que permite a los usuarios organizar sus tareas y eventos diario
 
 - # Diagrama de ishikawa del proyecto de aula
 ![Diagrama de ishikawa](carpeta/diagrama_de_ishikawa.png)
+![Diagrama de ishikawa](carpeta/diagrama_flujo.png)
 ---
 ### Validación y Verificación del Proyecto
 
